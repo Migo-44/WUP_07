@@ -1,6 +1,6 @@
 ---
 title: "Initial Korean covid 19"
-author: "Angelica Romero"
+author: "Miguel Avila"
 date: "10/10/2024"
 output:
   html_document: default
@@ -75,5 +75,5 @@ The p-value from the chi-squared test was 0.001 so we reject the null hypothesis
 
 ## Conclusions
 
-From the data we can conclude that deaths from covid in Korea are dependent on sex. In the fisher's exact test, it shows that men are 2.3 times more likely to die from Covid than women. The p-value in the chi-squared test is 0.001 which is less than 0.05 therefore we reject the null hypothesis.
+From the data we can conclude that deaths from covid in Korea are dependent on sex. In the fisher's exact test, it shows that men are 2.3 times more likely to die from Covid than women. The p-value in the chi-squared test is 0.001 which is less than 0.05 therefore we reject the null hypothesis.   
 
